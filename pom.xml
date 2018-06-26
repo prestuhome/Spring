@@ -6,8 +6,8 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>spring</name>
-    <description>Studying Spring Framework</description>
+    <name>Spring</name>
+    <description>Spring Framework tutorials</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
