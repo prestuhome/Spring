@@ -16,4 +16,8 @@ mvn spring-boot:run
 http://localhost:8080/h2-console
 
 JDBC URL: jdbc:h2:mem:testdb
+
+http://localhost:8080/books
+
+http://localhost:8080/authors
 ```
